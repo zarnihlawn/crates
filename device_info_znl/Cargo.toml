@@ -1,0 +1,10 @@
+[package]
+name = "device_info_znl"
+version = "0.1.0"
+edition = "2024"
+authors = ["Zarni Hlawn <zarnihlawn@outlook.com>"]
+description = "Crate for getting device info for Windows, MacOS, Linux, Android, and iOS."
+license = "MIT"
+repository = "https://github.com/yourusername/my_crate"
+
+[dependencies]
